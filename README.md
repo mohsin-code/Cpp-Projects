@@ -2,4 +2,4 @@
 
 Here are some C++ Projects
 
-![alt text](https://media.giphy.com/media/QBvyaJNlUxWZheUIjJ/giphy.gif")
+![](https://media.giphy.com/media/QBvyaJNlUxWZheUIjJ/giphy.gif")
